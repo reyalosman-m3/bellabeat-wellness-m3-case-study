@@ -128,13 +128,13 @@ Each dashboard includes multiple charts (line, scatter, histogram, heatmap, stac
 
 ## 📄 Full Case Study
 You can read the complete case study here:
-👉 [Capstone Project – Case Study 2 – How Can Wellness Companies Play It Smart (PDF)](Capstone%20Project%20-%20Case%20Study%202%20-%20How%20Can%20Wellness%20Companies%20Play%20it%20Smart.pdf)
+👉 [Capstone Project – Case Study 2 – How Can Wellness Companies Play It Smart?(https://docs.google.com/document/d/1d7gHQhaKGOkKQR9asCschx2RKWH0e5AjrFvPcTeiIuE/view)
 
 ## Contact
 If you’d like to discuss this project or collaborate:
 * Author: Reyal Osman 
 * Location: Abu Dhabi, UAE
-* LinkedIn: (add your link)
+* LinkedIn: (https://www.linkedin.com/in/reyal-osman-15a048221)
 * GitHub:(https://github.com/reyalosman-m3/bellabeat-wellness-m3-case-study)
 
 ## Related Work
