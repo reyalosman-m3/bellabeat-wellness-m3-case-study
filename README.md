@@ -128,7 +128,7 @@ Each dashboard includes multiple charts (line, scatter, histogram, heatmap, stac
 
 ## 📄 Full Case Study
 You can read the complete case study here:
-👉 [Capstone Project – Case Study 2 – How Can Wellness Companies Play It Smart?(https://docs.google.com/document/d/1d7gHQhaKGOkKQR9asCschx2RKWH0e5AjrFvPcTeiIuE/view)
+👉 [Capstone Project – Case Study 2 – How Can Wellness Companies Play It Smart?](https://docs.google.com/document/d/1d7gHQhaKGOkKQR9asCschx2RKWH0e5AjrFvPcTeiIuE/view)
 
 ## Contact
 If you’d like to discuss this project or collaborate:
